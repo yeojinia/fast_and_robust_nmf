@@ -1,5 +1,5 @@
 """
-Filename: 	    kernelized_perceptron.py
+Filename: 	    fast_sep_nmf.py
 Author:   	    Yeojin Kim
 Date:     	    June 2020
 Description:    This file is an implementation of original algorithm 1,
