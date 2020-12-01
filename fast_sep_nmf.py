@@ -1,3 +1,11 @@
+"""
+Filename: 	    kernelized_perceptron.py
+Author:   	    Yeojin Kim
+Date:     	    June 2020
+Description:    This file is an implementation of original algorithm 1,
+"N. Gillis and S.A. Vavasis, Fast and Robust Recursive Algorithms for Separable Nonnegative Matrix Factorization"
+"""
+
 from scipy.sparse import spdiags
 from numpy import linalg as LA
 import numpy as np
